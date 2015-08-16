@@ -7,5 +7,5 @@
 
     ## Results
     $SA = [3, 0, 1, 2];
-DESCRIPTION
+####DESCRIPTION
     Calculate Suffix Array O(n) time by SA-IS Algorithm
