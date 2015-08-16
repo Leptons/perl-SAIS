@@ -1,6 +1,6 @@
-NAME
+####NAME
     Algorithm::SuffixArray
-SYNOPSIS
+####SYNOPSIS
     use Algorithm::SuffixArray;
 
     my $SA = Algorithm::SuffixArray::SA_IS("abra");
